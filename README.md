@@ -1,10 +1,12 @@
-# libaton_mobprog
+Lab Activity 0B: Discussion
+
+# adres_mobprog
 
 A new Flutter project.
 
-During this lab activity, I learned how to install and set up Flutter on my computer. First, I downloaded Flutter SDK version 3.47.9 and extracted the files into my C drive. Next, I added Flutter to my environment variables and ran the flutter doctor -v command to make sure everything was installed properly.
+In this lab session, I discovered how to install and configure Flutter on my computer. I began by downloading Flutter SDK version 3.47.9 and unzipped the files onto my C drive. Then, I included Flutter in my environment variables and executed the flutter doctor -v command to verify that everything was set up correctly.
 
-One challenge I faced was a slow Gradle build when I first launched my app on the Android emulator. At first, the emulator showed an older Flutter app, but once the build finished, my new "Hello World" app appeared on the screen.
+A difficulty I encountered was a slow Gradle build when I initially started my app on the Android emulator. Initially, the emulator displayed an earlier version of a Flutter app, but after the build completed, my new "Hello World" application showed up on the screen.
 
 I also learned how to create a Flutter project in Visual Studio Code using the Empty Application template. After setting it up, I installed the Provider package and ran the app on the Android emulator.
 

@@ -1,4 +1,4 @@
-package com.example.libaton_mobprog
+package com.example.adres_mobprog
 
 import io.flutter.embedding.android.FlutterActivity
 
